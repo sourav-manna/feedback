@@ -1,0 +1,82 @@
+#d1{
+    padding: 3%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 3%;
+    margin-left: 27%;
+    margin-right: 27%;
+    border-radius: 25px;
+    size: fixed;
+    box-shadow: 1px 1px 10px rgb(196, 196, 196);
+
+}
+
+#d2{
+    padding: 5%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15%;
+    margin-left: 27%;
+    margin-right: 27%;
+    border-radius: 25px;
+    size: fixed;
+    box-shadow: 1px 1px 10px rgb(196, 196, 196);
+    font-size: x-large;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight:400;
+    background-image:url(./5385893.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: unset;
+}
+
+.t{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 83%;
+    outline: none;
+    box-shadow: 1px 1px 5px rgb(223, 222, 222);
+}
+input{
+    font-size:medium;
+    outline: none;
+    border: none;
+    background-color:rgba(235, 235, 235, 0.457);
+    
+}
+
+small{
+    font-size: large;
+    color: rgb(7, 93, 151);
+}
+p{
+    color: rgb(56, 156, 206);
+    text-align: center;
+}
+
+button{
+    border: none;
+    border-radius: 3px;
+    font-size: medium;
+    text-align: center;
+    width: 100%;
+    background-color: white;  
+}
+#b1{
+    border: none;
+    padding: 3%;
+    background-color: rgb(57, 219, 165);
+    border-radius: 10px;
+    margin-top: 20px;
+    color: white;
+    font-size: x-large;
+    box-shadow:  1px 1px 5px rgb(223, 222, 222);;
+}
